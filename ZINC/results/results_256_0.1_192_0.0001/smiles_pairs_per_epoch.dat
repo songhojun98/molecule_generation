@@ -1,0 +1,723 @@
+Epoch 0
+Input:
+Cc1noc([C@@H](C)SCc2nc(C3CC3)no2)n1
+
+Output:
+CCCcccccccCCCCCCCCCccccccccccccccccccc
+
+Epoch 1
+Input:
+CCOCCN(C)C(=O)[C@@H]1CSCN1C(=O)CC
+
+Output:
+CCCcccccccccccccccccccccccccccccc1
+
+Epoch 2
+Input:
+CS(=O)(=O)[C@@H]1CC[C@H](OC(=O)c2ccccc2Cn2cncn2)C1
+
+Output:
+CCCccccccccCCCCCCCCCCCCCcccccccccccccccccccccccccc1
+
+
+Epoch 3
+Input:
+C[NH2+]Cc1ccc(O[C@H](C)[C@H](C)O)cc1
+
+Output:
+CCCcccccCCCCCCCCCCCCCCCCCccccccccCc11
+
+
+Epoch 4
+Input:
+CCCNC(=O)CCNC(=O)CN1CCC([NH3+])CC1
+
+Output:
+CCCCccccCCCCCCCCCCCCCcccccccccccc1
+
+
+Epoch 5
+Input:
+COc1cccc(CN2CCOc3c(cc(-c4cccnc4)cc3OC)C2)c1
+
+Output:
+CCCcccccccCCCCCCCccccccccccccccccccccccccc1
+
+
+Epoch 6
+Input:
+c1cc(C[NH+]2CCC3(CCCCC3)C2)n[nH]1
+
+Output:
+CCCCcccCCCCCCCCCCCccccccccccccccc1
+
+
+Epoch 7
+Input:
+CCOC(=O)CCCNC(=O)C1CCCCCC1
+
+Output:
+CCCCCCCCCCCCCCCCCCCCCCCCCC
+
+
+Epoch 8
+Input:
+Cc1ccc(-n2c(C)cc(C(=O)Cn3cnc(C#N)n3)c2C)cc1C
+
+Output:
+CCCcccccccccccccccccccccccccccccccccccccccc1
+
+
+Epoch 9
+Input:
+CC(C)([NH3+])c1cc(Cl)ccc1Cl
+
+Output:
+CCCcccccCCcccccccccccccccc1
+
+
+Epoch 10
+Input:
+CN(C)C(=O)C[C@H](C[NH3+])N1CCC(C[NH+](C)C)CC1
+
+Output:
+CCCC@](CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC1
+
+
+
+Epoch 11
+Input:
+CC(=O)C[C@@H]1CCCCC[NH+]1CC1CC1
+
+Output:
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+
+
+Epoch 12
+Input:
+CCC(=O)c1ccc(OC[C@H](O)C[NH+]2CC[C@H](C)[C@H](O)C2)cc1
+
+Output:
+CCCCcccCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC)CC1
+
+
+Epoch 13
+Input:
+O=C(Nc1ccccc1OC1CCCC1)N1CCSCC1
+
+Output:
+C=C(CCCcccccccccccCCCCCCCCCCCC1
+
+
+Epoch 14
+Input:
+COc1ccc([C@H](NC(=O)[C@H](C)O[C@@H]2CCC[C@@H](C)C2)C2CCOCC2)cc1
+
+Output:
+CCCCccccCCcccCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC)C1
+
+
+Epoch 15
+Input:
+COC(C)(C)CNC(=O)N[C@@H]1C[C@H]1c1ccccc1
+
+Output:
+CCCC@H]CCCCCCCCCCCCCCCCCCCCccccccccccc1
+
+
+Epoch 16
+Input:
+COc1ccccc1[C@@H](NC(=O)N1C[C@H]2CC[C@@H]1C2)c1ccccn1
+
+Output:
+CCCC@H]CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCccccccccccccc1
+
+
+Epoch 17
+Input:
+O=C(C1=C([O-])C(=O)N(Cc2ccco2)[C@H]1c1ccccc1F)c1cccc([N+](=O)[O-])c1
+
+Output:
+O=C(NCcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1
+
+
+Epoch 18
+Input:
+CC[C@@H](CCO)C[NH2+][C@@H](C)c1cnccn1
+
+Output:
+CCCC@ccCCCCCCCCCCCCCCCCCCCccccccccc11
+
+
+Epoch 19
+Input:
+Cc1nnc(N2C(=O)c3oc4cc(C)c(C)cc4c(=O)c3[C@@H]2c2ccncc2)s1
+
+Output:
+Cc11ccc(CCC((CCCCCCCCCCcccccccccccccccccccccccccccc2)cc1
+
+
+Epoch 20
+Input:
+O=C(Nc1ccccn1)c1cc(-c2cccs2)[nH]n1
+
+Output:
+O=C(NC11ccccccccccccccccccccccc)n1
+
+
+Epoch 21
+Input:
+C[C@@H](CC(=O)Nc1ccc2c(c1)C(=O)NC2)Cc1ccc(Cl)cc1
+
+Output:
+C[C@@]((CCcccccccccccccccccCCCCCcccccccccccc))c1
+
+
+Epoch 22
+Input:
+C[C@@H](CCO)SCC(=O)c1cc(Cl)sc1Cl
+
+Output:
+CCCCC@C]CCCCCC((ccccccccccc)))C1
+
+
+Epoch 23
+Input:
+C=C[C@H](C)NC(=O)C(=O)Nc1ccc(Br)nc1C
+
+Output:
+CCCC@H](CCCCccccCCCCCCccccccccccccC1
+
+
+Epoch 24
+Input:
+CC[NH2+][C@H](CC(C)C)[C@](C)(CC)[NH+]1CCCC1
+
+Output:
+C[C@HH]CCCC@H]CCCCCCCCCCCCCCCCCCCCCCCCCCCC1
+
+
+Epoch 25
+Input:
+Cc1ccc2nc(NC(=O)CN3C(=O)CSc4ccccc43)sc2c1
+
+Output:
+Cc1ccc(Ccc(CCCCCCCCCCCCCccccccccccccc)cc1
+
+
+Epoch 26
+Input:
+CC(C)(C)n1nc2c(c1-n1cccc1)CN(C(=O)[C@@H]1COc3ccccc3O1)C2
+
+Output:
+CC(C))C)cccccccccccccccccccccccccccccccccccccccccccc))C1
+
+
+Epoch 27
+Input:
+CS(=O)(=O)N[C@H]1CCCN(C(=O)N[C@H]2CC[NH+]3CCCC[C@H]23)C1
+
+Output:
+CC(C))CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC2)C1
+
+
+
+Epoch 28
+Input:
+CCN(C(=O)[C@@H]([NH3+])C(C)C)[C@@H]1CCCN(C(=O)OC(C)(C)C)C1
+
+Output:
+CCC(CC)C)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC))C1
+
+
+Epoch 29
+Input:
+O=C(N[C@@H]1CC(=O)N(C2CC2)C1)N1CCN(c2cc[nH+]cc2)CC1
+
+Output:
+O=C(NCCcccccCCCCCCCCCCCCCCCCCCCCCCCccccccccccc2))C1
+
+
+Epoch 30
+Input:
+O=C(NNc1nc(-c2ccccc2)no1)c1cnn(-c2ccccc2)c1
+
+Output:
+O=C(Nc1ccccccccccccccccccccccccccccccccccc1
+
+
+Epoch 31
+Input:
+CC1=C(C(=O)OCC(Cl)(Cl)Cl)N2C(=O)[C@@H](NC(=O)Cc3ccccc3)[C@@H]2SC1
+
+Output:
+Cc1cc(CC(=OCCCCCCCCCCCCCCccccccccccccccccccccccCCCCCCCCCCCC2)cc1
+
+
+Epoch 32
+Input:
+CC(C)Oc1cccc([C@@](C)(O)c2cccc(Cl)c2)c1
+
+Output:
+CC(=O)c1cccc(CC(H]CCCC(cccccccccccc2)c1
+
+
+Epoch 33
+Input:
+COc1ccc(Br)cc1/C=C/C(=O)N1C[C@H](C)C[C@@H](C)C1
+
+Output:
+COc1ccccccccccCCCCCCCCCCCCCCCCCCCCCCC@@@]CCCCC
+
+
+
+Epoch 34
+Input:
+COc1ccc(/C=N/NC(=O)Cc2csc(N)n2)c(OC)c1
+
+Output:
+COc1ccc(CCC=O)CCCccccccccc())))))c2)c1
+
+
+Epoch 35
+Input:
+COc1ccc(NC(=O)COc2ccc(Cl)cc2C)cc1Cl
+
+Output:
+COc1ccc(CC(=O)CCcccccccccccccc2)cC1
+
+
+Epoch 36
+Input:
+Cc1ccsc1C(=O)[C@@H]1CCCN(C(=O)NCCc2ccccc2)C1
+
+Output:
+Cc1ccc(CCCCOCC[@@H]]CCCCCCCCCCcccccccccc)CC1
+
+
+Epoch 37
+Input:
+Cn1nc(C(=O)NCCc2ccccc2)c2c1-c1ccccc1SC2
+
+Output:
+Cc1ccc(C)cccCCCCC)Cccccccccccccccccccc1
+
+
+Epoch 38
+Input:
+N#CC(CN1CCOCC1)CN1CCOCC1
+
+Output:
+CCCCCCCC)=O)CCCCC111CCCC1
+
+
+Epoch 39
+Input:
+CN(C)C(=O)[C@H](c1ccccc1)N1CCN(Cc2ccc3c(c2)OCCO3)CC1
+
+Output:
+CC(C)CCCCCCCCCCCccccccccccCCcccccccccccccccCCCCCCCC1
+
+
+Epoch 40
+Input:
+CCn1cc(/C=N/NC(=O)CSc2ncn[nH]2)cn1
+
+Output:
+CCc1cc(CCC(O))CccccccccccnnnnnnHn1
+
+
+Epoch 41
+Input:
+O=C(CCn1cncn1)N[C@H](c1ccccc1F)C1CCCC1
+
+Output:
+O=C(Cccccccccc[[[@@H]]ccccccc1C11CCCC1
+
+
+Epoch 42
+Input:
+CCOc1ccc(F)c(C(=O)Nc2nnc(C(C)(C)C)s2)c1F
+
+Output:
+CCCc1cccc(c(CC(=O))ccccc((((((()))))2)c1
+
+
+Epoch 43
+Input:
+COc1ccccc1NC(=O)C1CCN(S(=O)(=O)c2ccc3c(c2)nc(C)n3C2CCCC2)CC1
+
+Output:
+CCc1cccccCCCCC)CCCCccccccccccccccccccccCCCCCCCCCCCCCCCCC)CC1
+
+
+Epoch 44
+Input:
+C[C@H](C(=O)N1CCc2ccccc21)n1cccn1
+
+Output:
+C[C@H](CC(=O)Cccccccccc11c1ccccn1
+
+
+Epoch 45
+Input:
+Nc1ccc2c(NC[C@H]3CCCS3)ncnc2n1
+
+Output:
+Cc1ccccccC[[[@H]]CCCcccnnnn)n1
+
+
+Epoch 46
+Input:
+Cc1n[nH]cc1C[NH+]1CCC2(CCCC2)CC1
+
+Output:
+Cc1nC[ccccCCCCCC]CCCCCCCCCCC2CC1
+
+
+Epoch 47
+Input:
+O=C(Nc1ccccc1SC[C@@H]1CC1(Cl)Cl)c1ccccn1
+
+Output:
+O=C(NCccccccccccc[[HH]]CCCCcccccccccccs1
+
+
+Epoch 48
+Input:
+CC(C)(C)c1ccc(=O)n(CN2CCO[C@@H](c3ccccc3F)C2)n1
+
+Output:
+CC(=O)N)c1ccc((CC==O)CCCCCCC@H]]cccccccccc2))c1
+
+
+Epoch 49
+Input:
+O=C(c1cnc(Oc2ccccc2)cn1)N1CC[C@H](Oc2cccnc2)C1
+
+Output:
+O=C(Ccccccccccccccc1111)CCCC@H]](ccccccccc2)C1
+
+
+Epoch 50
+Input:
+CC(=O)c1cccc(NC(=O)NC[C@H]2CC[NH+](C3CC3)C2)c1
+
+Output:
+CC(C))c1ccccc(CCCCCCCCCC@]]CCCCCHH]]CC333C2)c1
+
+
+Epoch 51
+Input:
+COC(=O)N1CCc2ccc(Br)cc2[C@H]1C(=O)Nc1cccc(C(C)=O)c1
+
+Output:
+COC(=O)c1ccccccccccccC[[[@@]]CCCC)ccccccccccc(O)cc1
+
+
+Epoch 52
+Input:
+C[NH+](C)C1(CNC(=O)CNC(=O)N2CCc3ccccc3C2)CCOCC1
+
+Output:
+C[NH+]1C)NCCCCCCCCCCCCCCcccccccccccCCCCCCCCCCC1
+
+
+Epoch 53
+Input:
+COc1ccccc1[C@H](NC(=O)N[C@H](C)c1ccc(C)o1)c1nccn1C
+
+Output:
+COc1ccccc1[C@@H]CCCCCC[[@@H]cccccccc))111ccc1Cccn1
+
+
+Epoch 54
+Input:
+CCC[C@@H]1C[C@@H]1NC(=O)CN1C(=O)N[C@](C)(C2CC2)C1=O
+
+Output:
+CCC[C@@H]1CCCC@@]]CC@H]]CCCC@@CCCCC(((CCCCCCCCC))C1
+
+
+Epoch 55
+Input:
+C1COC2(CC[NH+](CCC3CC3)CC2)O1
+
+Output:
+CC(=C)NCCCCCC(OO)CCCCCCCCCCO1
+
+
+Epoch 56
+Input:
+Cc1cccc(C)c1-n1nnnc1COc1cc(Cl)cc(Cl)c1
+
+Output:
+Cc1cccc11cc1cc((C))CCOO))cccccccc(l)c1
+
+
+Epoch 57
+Input:
+Cc1n[nH]cc1C[NH+]1CCC[C@@H]1CC(=O)c1ccc(F)cc1
+
+Output:
+Cc1nC[H]ccCCCCCCCCCCCCCCC@@]]C)cccccccc(F)c11
+
+
+Epoch 58
+Input:
+O=c1c(-c2nccs2)nc2ccc(NCc3c(F)cccc3F)nc2n1Cc1ccncc1
+
+Output:
+COc1c((-c2ccccccccccccccccccccccccnnnnnn11cc1ccccc1
+
+
+Epoch 59
+Input:
+CCCC(=O)N1CCC(C(=O)NN=C(c2ccccc2)c2ccccc2)CC1
+
+Output:
+CCCC(=O)N1CCCCC((O)cccccccccccccccccccccc)CC1
+
+
+Epoch 60
+Input:
+CNc1ncc(F)c(-c2cccc(Cl)c2)n1
+
+Output:
+COc1ccc(CCccccccccccccc2))n1
+
+
+Epoch 61
+Input:
+Cc1ccc(OCCn2c3ccccc3n3c(=O)c(-c4ccccc4)nnc23)cc1
+
+Output:
+Cc1ccc(CCc2ccccccccccccccccccccccccccccc3)n2)cc1
+
+
+Epoch 62
+Input:
+COc1ccc(-c2cc(C(=O)Nc3ccc(OC)c(OC)c3)n[nH]2)c(OC)c1
+
+Output:
+COc1ccc(-c2ccc(CCccccccccc((())))))c))[[[n])))2))c1
+
+
+Epoch 63
+Input:
+O=C(NNc1cccc(C(F)(F)F)n1)c1cc(F)ccc1O
+
+Output:
+O=C(Nc1ccc((F)ccccc))))1cccccc((cccc1
+
+
+Epoch 64
+Input:
+C/C=C/C=C/C(=O)N1CCN(S(=O)(=O)c2ccccc2[N+](=O)[O-])CC1
+
+Output:
+CCCCC(CC)C(C))CCCCCCCCCCCCCcccccccccccN+++]OO)[O-])CC
+
+
+
+Epoch 65
+Input:
+CCn1ncc([C@H](C)[NH2+]Cc2sccc2C)c1C
+
+Output:
+CCc1ccc([C@HH](C[C@H+]CCcccccc2))c1
+
+
+Epoch 66
+Input:
+CC1CC(NC(=O)C(=O)Nc2ccc3nc(C4CC4)oc3c2)C1
+
+Output:
+Cc1c(C(=(=O)CCC2cccccccccccCC)cc33)Cc)c11
+
+
+Epoch 67
+Input:
+Cc1nc(-c2ccc(N[C@@H](C)C(=O)Nc3ccccc3Cl)cc2)cs1
+
+Output:
+Cc1nc(-c2ccc(C[C@@H](CCCC=)))ccccccccccccccccc1
+
+
+Epoch 68
+Input:
+COC(=O)C(C)(C)[C@H]1CCCN(C(=O)CCCc2ccc(F)c(F)c2)C1
+
+Output:
+COC(=O)CCC==))[C@@H]CCC(((==O)ccccccccccc))cc2)CC1
+
+
+Epoch 69
+Input:
+O=C(NC1(C(=O)[O-])Cc2ccccc2C1)OCC1c2ccccc2-c2ccccc21
+
+Output:
+O=C(CN11C=OOO[[OO]2cccccccccc11111cccccccccccccccc22
+
+
+Epoch 70
+Input:
+CCOc1ccc([C@@H]2NC(=O)c3ccc(Cl)cc3N2)cc1OCC
+
+Output:
+CCOc1ccc([C@H]]CCC(=O)ccccccccc3CCCCC)cccOC
+
+
+Epoch 71
+Input:
+N#Cc1cccc(NC(=O)O[C@@H]2CO[C@@H]3[C@@H](Nc4nccc(-c5cccc(F)c5)n4)CO[C@H]23)c1
+
+Output:
+CCOc1cCc([C@@H]2CCC@@ccccccccccccccccccccccccccccccccccccccccccccCC@@H2cc111
+
+
+Epoch 72
+Input:
+C#CCN1C(=O)S/C(=C\c2cc(Br)c(OC)cc2OC)C1=O
+
+Output:
+CCCC(1CCN==)(CCC=C))cccccccc))cccc2))C1OO
+
+
+Epoch 73
+Input:
+CC(C)C[C@@H]1C(=O)NC(=O)C[C@H]1c1cnn(C)c1
+
+Output:
+CC(C)CCC@H]]CCCC@H]1CCCC[@@H]1c1ccc(C))n1
+
+
+Epoch 74
+Input:
+COc1ccc2c(c1)[C@@H]([NH2+]C[C@](C)(O)CC(C)C)CC2
+
+Output:
+COc1ccccccc)CC[@@]]CCCH]]CCCCCCCCCCCCCCCCCC)CC2
+
+
+Epoch 75
+Input:
+OC[C@@H](Nc1nc2ccccc2o1)c1ccc(Cl)cc1
+
+Output:
+CCCC@@H](Cc1cccccccccc))ccccc((l)cc1
+
+
+Epoch 76
+Input:
+C[C@H](NC(=O)N1CCC[C@@H](CCO)C1)c1ccc(N2CCCC2=O)cc1
+
+Output:
+C[C@H](NC(=O)N1CCCC[@@H]2CCCCC)NccccccccccccC)O)cc1
+
+
+Epoch 77
+Input:
+CCn1nc(C)c(Cn2c(=O)[nH]c3ccccc3c2=O)c1C
+
+Output:
+CCn1c(CC)c2cccccccc[[HH]ccccccc22)cc1=C
+
+
+Epoch 78
+Input:
+CC[C@@H](C)c1ccc(S(=O)(=O)N2CCN(C(=O)[C@@H]3CC=CCC3)CC2)cc1
+
+Output:
+CCC[@@H](C)c1ccc((((OO))CCCO))OO))CCC[@@H](CCCCCCCCCCC)cc1
+
+
+Epoch 79
+Input:
+Cc1cccc(NC(=O)C(=O)NCC[C@@H](O)C(C)(C)C)c1C
+
+Output:
+Cc1cccc(N(=O))CCC=OCCCC[C@H](())CCCCC)CC)c1
+
+
+Epoch 80
+Input:
+COCCOc1ccc2nc(NC(=O)[C@H](Br)C(C)C)sc2c1
+
+Output:
+CCCCOc1ccccc((C(=O))[C@H]]CCCCCCC)c2)cc1
+
+
+Epoch 81
+Input:
+c1cc(C[NH+]2CCC(OCC[NH+]3CCCC3)CC2)c2cc[nH]c2c1
+
+Output:
+CCC1(CC22CCC@@]]CCCCCCCCCH]]CCCcccnnn]cccc2)CC1
+
+
+Epoch 82
+Input:
+COC(=O)c1nn(C[C@@H](O)COc2cc(C)cc(C)c2)c2c1CCCC2
+
+Output:
+COC(=O)c1cc([[@@H](CCC=O)ccccccccc22222CCCCC)CC2
+
+
+Epoch 83
+Input:
+CC(C)CC1([C@H]([NH3+])c2ccc(Br)s2)CCCC1
+
+Output:
+CC(C)N11C[C@H]C[NH++]cc2ccccccCCCCC)CC1
+
+
+Epoch 84
+Input:
+Cc1cc(F)ccc1NC(=O)CC[C@H]1CCCN(C(=O)C[NH+]2CCCCCC2)C1
+
+Output:
+Cc1cc(C))cc11CC((O)CCCCCCCCCCCCCCCCCCCCNHH22CCCCC))C1
+
+
+Epoch 85
+Input:
+COc1ccc(CN2CC[NH+](Cc3cccc(C)c3)CC2)c(OC)c1OC
+
+Output:
+COc1ccc(N2CC[@@H](CCccccccccc)))))))cCCOOccOC
+
+
+Epoch 86
+Input:
+CC(C)CN(Cn1nc(Nc2ccccc2F)sc1=S)[C@H]1CCS(=O)(=O)C1
+
+Output:
+CN(CC=O)c1ccccccccccccccccc)))[C@@H]1CCS(=O)(=O)C1
+
+
+Epoch 87
+Input:
+Cc1ccccc1COc1ccccc1C(=O)N[C@H](C)C(N)=O
+
+Output:
+Cc1ccccc1cc1cccc1N((CO)C[C@@H](CC))())O
+
+
+Epoch 88
+Input:
+CCc1nc(CN(C)c2nnc(Cl)cc2C(N)=O)cs1
+
+Output:
+CCc1nc(CC(=)Nc2ccc(CCccc)))ccO))s1
+
+
+Epoch 89
+Input:
+CCc1nn(C)cc1C[NH2+]Cc1ccc(F)cc1CSC
+
+Output:
+CCc1nn(C)cc1CCCH+](Cccccc(O))cc1CC
+
+

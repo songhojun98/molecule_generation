@@ -1,0 +1,24 @@
+data:
+  batch_size: 256
+  smiles_file: ./datasets/250k_rndm_zinc_drugs_clean_3.csv
+  type_of_encoding: 0
+
+decoder:
+  latent_dimension: 192
+  gru_neurons_num: 488
+  gru_stack_size: 3
+
+encoder:
+  layer_1d: 256
+  layer_2d: 256
+  layer_3d: 256
+  latent_dimension: 192
+
+training:
+  KLD_alpha: 1.0e-01
+  lr_enc: 1.0e-04
+  lr_dec: 1.0e-04
+  step_size: 100
+  gamma: 0.8
+  num_epochs: 1000
+  sample_num: 1000

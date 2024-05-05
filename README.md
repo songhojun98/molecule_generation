@@ -24,7 +24,7 @@ This project focuses on creating new molecules using sequence-based molecular da
 
 ## 🌍 Installation
 
-Create a virtual environment and install the required packages:
+Create a virtual environment and install the required packages (Python version: 3.7):
 
 ```bash
 pip install rdkit-pypi
